@@ -1,4 +1,4 @@
-# Simple-Port-scan-using-censys-api
+# Simple Port scan using censys api
 Created simple Port Scanner in Bash using Censys API.
 Using Censys + Nmap could be more helpful to finde your exposed port and services.
 
